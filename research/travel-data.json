@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "language": "zh-TW",
+  "checkedOn": "2026-11-27",
+  "timeZone": "Asia/Taipei",
+  "week": "2026-W48",
+  "statuses": [
+    "已驗證",
+    "待確認",
+    "模擬資料"
+  ],
+  "records": [
+    {
+      "id": "tw-taipei-zoo",
+      "name": "臺北市立動物園",
+      "type": "景點",
+      "region": {
+        "city": "臺北市",
+        "district": "文山區"
+      },
+      "venue": "臺北市立動物園",
+      "features": "有臺灣動物區及多個主題展館，可依孩子興趣挑選動物觀察路線。",
+      "audiences": [
+        "親子"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署｜臺北市立動物園",
+          "url": "https://www.taiwan.net.tw/m1.aspx?id=230&sNo=0001090",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定日期的館區開放、推車動線與票務。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-taichung-nmns",
+      "name": "國立自然科學博物館",
+      "type": "景點",
+      "region": {
+        "city": "臺中市",
+        "district": "北區"
+      },
+      "venue": "國立自然科學博物館",
+      "features": "以自然科學為主題，提供可動手操作的學習體驗。",
+      "audiences": [
+        "親子"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署觀光開放資料｜國立自然科學博物館（臺中市政府觀光旅遊局）",
+          "url": "https://media.taiwan.net.tw/zh-tw/portal/travel/details/attraction_387000000a_000418",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定日期的展廳開放、活動年齡及預約條件。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-pingtung-nmmba",
+      "name": "國立海洋生物博物館",
+      "type": "景點",
+      "region": {
+        "city": "屏東縣",
+        "district": "車城鄉"
+      },
+      "venue": "國立海洋生物博物館",
+      "features": "以臺灣水域、珊瑚及全球水域主題展館呈現海洋生態。",
+      "audiences": [
+        "親子"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署｜國立海洋生物博物館",
+          "url": "https://www.taiwan.net.tw/m1.aspx?id=2242&sno=0001122",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定日期的展區開放、票務與推車動線。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-newtaipei-tamsui-wharf",
+      "name": "淡水漁人碼頭",
+      "type": "景點",
+      "region": {
+        "city": "新北市",
+        "district": "淡水區"
+      },
+      "venue": "淡水漁人碼頭",
+      "features": "有情人橋及港邊木棧道，可規劃散步及欣賞河口夕照。",
+      "audiences": [
+        "情侶"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署觀光開放資料｜淡水漁人碼頭（新北市政府觀光旅遊局）",
+          "url": "https://media.taiwan.net.tw/zh-tw/portal/travel/details/attraction_382000000a_109659",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定日期的天候與步道通行。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-taichung-gaomei",
+      "name": "高美濕地",
+      "type": "景點",
+      "region": {
+        "city": "臺中市",
+        "district": "清水區"
+      },
+      "venue": "高美濕地",
+      "features": "大甲溪河口的濕地與賞鳥景點，可規劃雙人生態散步。",
+      "audiences": [
+        "情侶"
+      ],
+      "eventDates": null,
+      "status": "待確認",
+      "sources": [
+        {
+          "name": "交通部觀光署觀光開放資料｜高美濕地（臺中市政府觀光旅遊局）",
+          "url": "https://media.taiwan.net.tw/zh-tw/portal/travel/details/attraction_387000000a_000054",
+          "checkedOn": "2026-11-27"
+        },
+        {
+          "name": "臺中市海岸資源漁業發展所｜木棧道開放時間",
+          "url": "https://www.links.taichung.gov.tw/837108/2758517/2758920/2768069",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "潮汐、天候及維護影響木棧道開放，指定日期可通行性待確認。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-newtaipei-christmasland-2026",
+      "name": "2026新北歡樂耶誕城",
+      "type": "活動",
+      "region": {
+        "city": "新北市",
+        "district": "板橋區"
+      },
+      "venue": "板橋主燈區",
+      "features": "板橋主燈區設有主題燈飾與光影展演，可安排雙人夜間散步。",
+      "audiences": [
+        "情侶"
+      ],
+      "eventDates": {
+        "start": "2026-11-13",
+        "end": "2026-12-27",
+        "note": "公告展期，指定到訪日依公告複查。"
+      },
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "新北歡樂耶誕城官方網站｜2026 年活動亮點",
+          "url": "https://christmasland.ntpc.gov.tw/special-detail.php?i=109",
+          "checkedOn": "2026-11-27"
+        },
+        {
+          "name": "新北市政府秘書處｜市府活動",
+          "url": "https://www.sec.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=202611130002&id=83a06160854808fb&mserno=null",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定日期的展演、交通管制與人潮動線。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-tainan-longci-2027",
+      "name": "2027龍崎光節空山祭",
+      "type": "活動",
+      "region": {
+        "city": "臺南市",
+        "district": "龍崎區"
+      },
+      "venue": "虎形山公園",
+      "features": "虎形山公園的地景藝術裝置展，可安排以山林光影為主題的夜間行程。",
+      "audiences": [
+        "情侶"
+      ],
+      "eventDates": {
+        "start": "2026-12-19",
+        "end": "2027-02-14",
+        "note": "公告展期，指定到訪日依公告複查。"
+      },
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署｜2027龍崎光節空山祭",
+          "url": "https://www.tad.gov.tw/m1.aspx?lid=081787&sNo=0001019",
+          "checkedOn": "2026-11-27"
+        },
+        {
+          "name": "OPENTIX 兩廳院文化生活｜主辦節目資訊",
+          "url": "https://www.opentix.life/event/2119633545334366208",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定日期是否休展、入場與接駁安排，以及夜間山區步行條件。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-nantou-xiangshan",
+      "name": "向山遊客中心",
+      "type": "景點",
+      "region": {
+        "city": "南投縣",
+        "district": "魚池鄉"
+      },
+      "venue": "向山遊客中心",
+      "features": "日月潭遊客中心設有地方產業及自然人文展示，可依體力安排館內參觀與觀景。",
+      "audiences": [
+        "熟齡"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署｜日月潭國家風景區－向山遊客中心",
+          "url": "https://www.taiwan.net.tw/m1.aspx?id=412&sNo=0001016",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定動線的坡度、休息點與無障礙設施。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-chiayi-npm-south",
+      "name": "國立故宮博物院南部院區",
+      "type": "景點",
+      "region": {
+        "city": "嘉義縣",
+        "district": "太保市"
+      },
+      "venue": "國立故宮博物院南部院區",
+      "features": "以亞洲藝術文化為主題，可選擇感興趣的文物展覽安排參觀。",
+      "audiences": [
+        "熟齡"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署｜國立故宮博物院南部院區",
+          "url": "https://www.taiwan.net.tw/m1.aspx?id=a12-00234&sNo=0001016",
+          "checkedOn": "2026-11-27"
+        },
+        {
+          "name": "交通部觀光署觀光開放資料｜故宮博物院南部院區",
+          "url": "https://media.taiwan.net.tw/en-us/portal/travel/details/attraction_376500000a_000025",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定展覽、票務及輪椅動線。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    },
+    {
+      "id": "tw-yilan-luodong-forestry",
+      "name": "羅東林業文化園區",
+      "type": "景點",
+      "region": {
+        "city": "宜蘭縣",
+        "district": "羅東鎮"
+      },
+      "venue": "羅東林業文化園區",
+      "features": "由昔日林業設施及貯木池舊址整建，可安排了解林業歷史的散步行程。",
+      "audiences": [
+        "熟齡"
+      ],
+      "eventDates": null,
+      "status": "已驗證",
+      "sources": [
+        {
+          "name": "交通部觀光署觀光開放資料｜羅東林業文化園區（林業保育署）",
+          "url": "https://media.taiwan.net.tw/zh-tw/portal/travel/details/attraction_345040000g_100031",
+          "checkedOn": "2026-11-27"
+        }
+      ],
+      "pendingChecks": [
+        {
+          "status": "待確認",
+          "item": "指定路段的鋪面、休息點與展館開放。",
+          "owner": "旅遊研究員"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# 本機環境變數、憑證與秘密
+.env
+.env.*
+.envrc
+*.pem
+*.key
+*.p12
+*.pfx
+*.ppk
+*.jks
+*.keystore
+.npmrc
+.netrc
+.git-credentials
+.ssh/
+.aws/
+secrets/
+credentials/
+credentials.json
+secrets.json
+service-account*.json
+
+# 本機客戶資料、諮詢匯出
+private/
+customer-data/
+exports/
+customer-list.*
+customer-export.*
+
+# 相依套件、建置與測試暫存
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tmp
+*.bak
+
+# 系統檔案、重複的下載包
+.DS_Store
+Thumbs.db
+Desktop.ini
+/weekly-report-10-slides.zip
